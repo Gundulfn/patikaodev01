@@ -6,7 +6,7 @@ Markdown kullanımında *paragraf **oluşturma** örneği* görüyoruz.
 
 _Burası_ __ikinci__ ___paragraf___.
 
-Bu metin ~üstü~ ---çizilidir---.
+Bu metin ~üstü~ çizilidir.
 
 Aşağıdaki adımları uygulayabilirsiniz.
 
