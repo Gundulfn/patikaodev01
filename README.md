@@ -19,7 +19,7 @@ Lütfen buradaki [dosyayı](https://github.com/Gundulfn/patika-git) indiriniz.
 
 ![görsel](https://avatars.githubusercontent.com/u/22707968?s=400&u=dc07251323f71ae7deb3eb866b45eafb951510f5&v=4)
 
-Lütfen `` npm install`` çalıştırınız.
+Lütfen ``npm install`` çalıştırınız.
 ```
 function hello()
 {
